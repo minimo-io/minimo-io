@@ -22,6 +22,4 @@ Here are some ideas to get you started:
 
 ### Find me elsewhere 🌎
 
-🚀 [Site](https://minimo.io) <br>
-🐦 [Twitter](https://twitter.com/minimo_io) <br>
-💼 [LinkedIn](https://www.linkedin.com/in/nicolas-erramuspe/) <br>
+🚀 [Site](https://minimo.io) . 🐦 [Twitter](https://twitter.com/minimo_io) . 💼 [LinkedIn](https://www.linkedin.com/in/nicolas-erramuspe/) <br>
