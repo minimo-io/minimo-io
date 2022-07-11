@@ -1,4 +1,4 @@
-### Hey, Nicolas here 👋
+### Hey!, Nicolas here 👋 
 
 🤖 Flutter. Vue. WP/WooCommerce.<br>
 👨🏽‍💻 Dart. PHP. JS/CSS.<br>
