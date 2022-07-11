@@ -1,15 +1,15 @@
 ### Hey, I'm Nicolas 👋
 
 #### Summary.
-🤖 Flutter. Vue. WP/WooCommerce.
-👨🏽‍💻 Dart. PHP. JS/CSS.
-🧰 VSCode & Android Studio.
-🎨 Figma & Unsplash.
-🦄 USDC, BTC.
-🚴🏼‍♂️ Strava ~ 2685km
+🤖 Flutter. Vue. WP/WooCommerce.<br>
+👨🏽‍💻 Dart. PHP. JS/CSS.<br>
+🧰 VSCode & Android Studio.<br>
+🎨 Figma & Unsplash.<br>
+🦄 USDC, BTC.<br>
+🚴🏼‍♂️ Strava ~ 2685km<br>
 
-- 👨‍💻 Currently working on [Hops](https://hops.uy) & [Betizen](https://betizen.org).
-- 📖 ... learning Solidity.
+* 👨‍💻 Currently working on [Hops](https://hops.uy) & [Betizen](https://betizen.org).
+* 📖 ... learning Solidity.
 
 <!-- - 🤔 I’m looking for help with ... -->
 
