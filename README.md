@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Find me elsewhere 🌎
+### Find me
 
 🚀 [Site](https://minimo.io) . 🐦 [Twitter](https://twitter.com/minimo_io) . 💼 [LinkedIn](https://www.linkedin.com/in/nicolas-erramuspe/) <br>
