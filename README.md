@@ -1,7 +1,16 @@
-### I'm Nicolas 👋
+### Hey, I'm Nicolas 👋
 
-- 🔭 I’m currently working on [Hops](https://hops.uy) & [Betizen](https://betizen.org)
-- 🌱 ... learning Solidity & Figma.
+#### Summary.
+🤖 Flutter. Vue. WP/WooCommerce.
+👨🏽‍💻 Dart. PHP. JS/CSS.
+🧰 VSCode & Android Studio.
+🎨 Figma & Unsplash.
+🦄 USDC, BTC.
+🚴🏼‍♂️ Strava ~ 2685km
+
+- 👨‍💻 Currently working on [Hops](https://hops.uy) & [Betizen](https://betizen.org).
+- 📖 ... learning Solidity.
+
 <!-- - 🤔 I’m looking for help with ... -->
 
 <!--
