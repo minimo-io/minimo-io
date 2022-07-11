@@ -13,5 +13,5 @@
 
 ### Get in touch.
 💼 [LinkedIn](https://www.linkedin.com/in/nicolas-erramuspe/)<br>
-🐦 [Twitter](https://twitter.com/minimo_io)
+🐦 [Twitter](https://twitter.com/minimo_io)<br>
 🚀 [Site](https://minimo.io)<br>
