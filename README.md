@@ -2,7 +2,6 @@
 
 - 🔭 I’m currently working on [Hops](https://hops.uy)
 - 🌱 I’m currently learning Solidity
-- 👯 I’m looking to collaborate on Web3 Development
 <!-- - 🤔 I’m looking for help with ... -->
 
 <!--
