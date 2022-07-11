@@ -10,7 +10,7 @@
 
 #### Currently.
 👨‍💻 Currently working on [Hops](https://hops.uy) & [Betizen](https://betizen.org).<br>
-📖 ... learning Solidity.
+📖 Learning [Solidity](https://soliditylang.org/).
 
 #### Contact.
 🚀 [Site](https://minimo.io)<br>
