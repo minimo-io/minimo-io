@@ -1,6 +1,6 @@
 ### I'm Nicolas 👋
 
-- 🔭 I’m currently working on [Hops](https://hops.uy)
+- 🔭 I’m currently working on launchig [Hops](https://hops.uy) & [Betizen v2](https://betizen.org).
 - 🌱 I’m currently learning Solidity
 <!-- - 🤔 I’m looking for help with ... -->
 
