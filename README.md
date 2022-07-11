@@ -9,7 +9,7 @@
 🚴🏼‍♂️ Strava ~ 2685km<br>
 
 #### Currently.
-👨‍💻 Currently working on [Hops](https://hops.uy) & [Betizen](https://betizen.org).
+👨‍💻 Currently working on [Hops](https://hops.uy) & [Betizen](https://betizen.org).<br>
 📖 ... learning Solidity.
 
 #### Contact.
