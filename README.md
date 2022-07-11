@@ -1,7 +1,7 @@
 ### I'm Nicolas 👋
 
-- 🔭 I’m currently working on launchig [Hops](https://hops.uy) & [Betizen v2](https://betizen.org).
-- 🌱 I’m currently learning Solidity
+- 🔭 I’m currently working on [Hops](https://hops.uy) & [Betizen](https://betizen.org).
+- 🌱 ... learning Solidity & Figma.
 <!-- - 🤔 I’m looking for help with ... -->
 
 <!--
@@ -18,7 +18,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-### Find me
 
 🚀 [Site](https://minimo.io) . 🐦 [Twitter](https://twitter.com/minimo_io) . 💼 [LinkedIn](https://www.linkedin.com/in/nicolas-erramuspe/) <br>
