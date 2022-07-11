@@ -1,4 +1,4 @@
-### Opa, I'm Nicolas 👋
+### I'm Nicolas 👋
 
 - 🔭 I’m currently working on [Hops](https://hops.uy)
 - 🌱 I’m currently learning Solidity
