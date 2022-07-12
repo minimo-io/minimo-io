@@ -3,8 +3,8 @@
 👨🏽‍💻 Dart. PHP. JS.<br>
 🤖 Flutter. Vue. WP/WooCommerce.<br>
 🧰 VSCode & Android Studio.<br>
-🎨 Figma & [Unsplash](https://unsplash.com/es/@minimo_io).<br>
 🦄 USDC, BTC.<br>
+🎨 Figma & [Unsplash](https://unsplash.com/es/@minimo_io).<br>
 🚴🏼‍♂️ Strava ~ 2698km.<br>
 
 ### Currently
