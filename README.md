@@ -5,7 +5,7 @@
 🧰 VSCode & Android Studio.<br>
 🎨 Figma & [Unsplash](https://unsplash.com/es/@minimo_io).<br>
 🦄 USDC, BTC.<br>
-🚴🏼‍♂️ Strava ~ 2685km.<br>
+🚴🏼‍♂️ Strava ~ 2698km.<br>
 
 ### Currently
 👨‍💻 Working on [Hops](https://hops.uy) & [Betizen](https://betizen.org).<br>
