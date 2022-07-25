@@ -1,6 +1,5 @@
 ### Hey! Nicolas here 👋 
 
-👨🏽‍💻 Dart. PHP. JS.<br>
 🤖 Flutter. Vue. WP/WooCommerce.<br>
 🧰 VSCode & Android Studio.<br>
 🦄 USDC, BTC.<br>
