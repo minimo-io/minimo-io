@@ -4,7 +4,7 @@
 🧰 VSCode.<br>
 🦄 USDC, BTC.<br>
 🎨 Figma & [Unsplash](https://unsplash.com/es/@minimo_io).<br>
-🚴🏼‍♂️ Strava ~ 2986km.<br>
+🚴🏼‍♂️ Strava ~ 3031km.<br>
 
 ### Currently
 👨‍💻 Working on [Hops](https://hops.uy), [Betizen](https://betizen.org) & LoveInABox<br>
