@@ -8,8 +8,8 @@
 
 ### Currently
 👨‍💻 Working on [Hops](https://hops.uy), [Betizen](https://betizen.org) & LoveInABox<br>
-📖 Learning [Solidity](https://soliditylang.org/).
+📖 Learning Lightning Network.
 
 ### Get in touch.
-💼 [LinkedIn](https://www.linkedin.com/in/nicolas-erramuspe/)<br>
 🚀 [Site](https://minimo.io)<br>
+💼 [LinkedIn](https://www.linkedin.com/in/nicolas-erramuspe/)<br>
