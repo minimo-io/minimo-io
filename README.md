@@ -2,12 +2,12 @@
 
 👨🏽‍💻 Flutter. Vue. WP/WooCommerce.<br>
 🧰 VSCode.<br>
-🦄 BTC/LN, USDC/T.<br>
+🦄 BTC, USDC/T.<br>
 🎨 Figma & [Unsplash](https://unsplash.com/es/@minimo_io).<br>
-🚴🏼‍♂️ Strava ~ 3031km.<br>
+🚴🏼‍♂️ Strava ~ 3227km.<br>
 
 ### Currently
-👨‍💻 Working on [Hops](https://hops.uy), [Betizen](https://betizen.org) & LoveInABox<br>
+👨‍💻 Working at [Mínimo](https://minimo.io)<br>
 📖 Learning Lightning Network.
 
 ### Get in touch.
