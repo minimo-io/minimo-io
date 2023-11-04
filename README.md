@@ -9,7 +9,3 @@
 ### Currently
 👨‍💻 Working at [Mínimo](https://minimo.io)<br>
 📖 Learning Lightning Network.
-
-### Get in touch.
-🚀 [Site](https://minimo.io)<br>
-💼 [LinkedIn](https://www.linkedin.com/in/nicolas-erramuspe/)<br>
