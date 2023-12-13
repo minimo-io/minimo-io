@@ -1,7 +1,9 @@
 ### Hey! Nicolas here 👋 
 
-🧑🏽‍💻 Dev, 🎨 Design & ⚡️$BTC — Building ⚡️LightningBeer App📍🇧🇷/🇺🇾<br>
+🧑🏽‍💻 Dev, 🎨 Design & ⚡️$BTC<br>
 🚴🏼‍♂️ Strava ~ 3909km.<br>
+— Building ⚡️LightningBeer App📍🇧🇷/🇺🇾<br>
+— Building Braaay.com/Hops Store
 
 ### Currently
 👨‍💻 Working at [Mínimo](https://minimo.io) & [Braaay](https://braaay.com)<br>
