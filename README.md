@@ -1,6 +1,6 @@
 ### Hey! Nicolas here 👋 
 
-🧑🏽‍💻 Dev, 🎨 Design & ⚡️$BTC — Building ⚡️LightningBeer App📍🇧🇷/🇺🇾
+🧑🏽‍💻 Dev, 🎨 Design & ⚡️$BTC — Building ⚡️LightningBeer App📍🇧🇷/🇺🇾<br>
 🚴🏼‍♂️ Strava ~ 3909km.<br>
 
 ### Currently
