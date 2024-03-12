@@ -2,6 +2,7 @@
 
 🧑🏽‍💻 Dev, 🎨 Design & ⚡️$BTC - 📍🇧🇷/🇺🇾<br>
 🚴🏼‍♂️ Strava ~ 4,050kms.<br>
+🕸 Find me at [minimo.io](https://minimo.io)
 
 ### Currently
 👉 Building ⚡️LightningBeer App<br>
